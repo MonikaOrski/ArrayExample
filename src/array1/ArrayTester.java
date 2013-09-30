@@ -1,6 +1,8 @@
 package array1;
 
-
+/*
+ * This class is an example of how to use arrays
+ */
 public class ArrayTester {
 
 	private String[] stringArray;
